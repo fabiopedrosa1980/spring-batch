@@ -43,7 +43,3 @@ mvnw.cmd spring-boot:run
 ## 📝 Sobre
 
 Este é um projeto de estudos, em evolução constante. Contribuições, sugestões e trocas de experiência sobre Spring Batch são muito bem-vindas!
-
-## 📄 Licença
-
-Defina aqui a licença do projeto (ex: MIT, Apache 2.0) ou remova esta seção se não aplicável.
